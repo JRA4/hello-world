@@ -1,2 +1,3 @@
 Hello World!
-I am learning Git.
+I am learning Git!
+It is fun.
